@@ -20,6 +20,8 @@ Each user only has access to books that he/she has created.
    
 # Features
 - Add Book
+- Get All Books
+- Get Book By Id
 - Update Book
 - Add Book Cover
 - Delete Book
