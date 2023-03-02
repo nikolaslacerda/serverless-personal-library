@@ -1,0 +1,9 @@
+.LoginButton {
+  background-color: transparent;
+  border: none;
+  margin-left: auto;
+  cursor: pointer;
+  color: white;
+  font-size: medium;
+}
+

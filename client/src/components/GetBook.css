@@ -1,0 +1,20 @@
+.Item {
+    font-size: larger;
+    padding: 10px;
+}
+
+.progress-bar {
+    width: 100%;
+    background-color: #e0e0e0;
+    padding: 2px;
+    border-radius: 3px;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .2);
+}
+
+.progress-bar-fill {
+    display: block;
+    height: 12px;
+    background-color: #282c34;
+    border-radius: 3px;
+    transition: width 500ms ease-in-out;
+}
